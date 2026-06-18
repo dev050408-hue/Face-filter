@@ -1,9 +1,3 @@
-# 😎 For Snapchat Filter
-# ✅ Install:
-# pip install mediapipe==0.10.9 protobuf==3.20.3 opencv-python
-# ❌ Uninstall:
-# pip uninstall tensorflow keras opencv-python numpy protobuf==7.34.1
-
 import cv2
 import mediapipe as mp  
 import math
