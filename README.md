@@ -1,4 +1,4 @@
-# 📸 Snap Filter using Computer Vision
+# 📸 Face Filter using Computer Vision
 
 ## 📌 Project Overview
 
